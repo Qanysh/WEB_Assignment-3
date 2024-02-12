@@ -10,7 +10,7 @@
 
 ## Admin account data
 
--   login: Sepa
+-   login: Arsen
 -   password: 123
 
 ### Used npm dependencies
